@@ -1,0 +1,11 @@
+# --- FRONTEND ---
+frontend/node_modules/
+frontend/.next/
+frontend/.env
+frontend/.env.local
+frontend/.env.*
+frontend/.vercel/
+
+# --- BACKEND (kalau pakai) ---
+backend/.env
+backend/.env.*
