@@ -23,7 +23,7 @@ export type BookingResult = {
 };
 
 const API = process.env.NEXT_PUBLIC_API_BASE_URL ||
-  "http://192.168.49.2:30081";
+  "http://localhost:8080";
 
 console.log(">>> API BASE URL =", API);
 
